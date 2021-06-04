@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MLVU-testpage/static/css/main.e13eae91.chunk.css",
+    "main.js": "/MLVU-testpage/static/js/main.91f036b0.chunk.js",
+    "main.js.map": "/MLVU-testpage/static/js/main.91f036b0.chunk.js.map",
+    "runtime-main.js": "/MLVU-testpage/static/js/runtime-main.bb84c8ab.js",
+    "runtime-main.js.map": "/MLVU-testpage/static/js/runtime-main.bb84c8ab.js.map",
+    "static/js/2.300443ec.chunk.js": "/MLVU-testpage/static/js/2.300443ec.chunk.js",
+    "static/js/2.300443ec.chunk.js.map": "/MLVU-testpage/static/js/2.300443ec.chunk.js.map",
+    "static/js/3.9be75fa5.chunk.js": "/MLVU-testpage/static/js/3.9be75fa5.chunk.js",
+    "static/js/3.9be75fa5.chunk.js.map": "/MLVU-testpage/static/js/3.9be75fa5.chunk.js.map",
+    "index.html": "/MLVU-testpage/index.html",
+    "static/css/main.e13eae91.chunk.css.map": "/MLVU-testpage/static/css/main.e13eae91.chunk.css.map",
+    "static/js/2.300443ec.chunk.js.LICENSE.txt": "/MLVU-testpage/static/js/2.300443ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb84c8ab.js",
+    "static/js/2.300443ec.chunk.js",
+    "static/css/main.e13eae91.chunk.css",
+    "static/js/main.91f036b0.chunk.js"
+  ]
+}
