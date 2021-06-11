@@ -68,7 +68,8 @@ function App() {
     })
 
     if(notOK.length==0){
-      download(JSON.stringify(userInfo), "pilot_"+userInfo["name"]+".json", "text/plain");
+      let answers = {...userInfo, ...totalInfo}
+      download(JSON.stringify(answers), "pilot_"+userInfo["name"]+".json", "text/plain");
     }
 
     return alert(
